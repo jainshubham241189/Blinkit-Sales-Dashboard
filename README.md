@@ -20,7 +20,7 @@ This Power BI dashboard analyzes Blinkit sales performance, outlet trends, and p
 - Excel
 
 ## Dashboard Preview
-![Dashboard](screenshot.png)
+![Dashboard](https://github.com/jainshubham241189/blinkit-sales-dashboard/blob/main/DashBoard%20Image.png)
 
 ## Author
 Shubham Jain
